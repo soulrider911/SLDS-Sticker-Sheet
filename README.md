@@ -7,7 +7,7 @@ Salesforce Lightning Design system component kit for Sketch. A Style based desig
 
 # How to use this kit
 ### Basic Kit Usage
-The best way to use this kit, if you know you may need access to the majority of the styles, is to use the included **SLDS Starter**
+The best way to use this kit, if you know you may need access to the majority of the styles, is to use the included **SLDS-Starter.sketch**
 
 The SLDS Starter is a blank file, but has all the symbols already added for you in the symbols page.
 
