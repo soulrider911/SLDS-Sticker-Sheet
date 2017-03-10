@@ -2,8 +2,8 @@ SLDS Sticker Sheet
 ========
 ![Sticker Sheet](https://c1.staticflickr.com/1/688/33320753446_390dd106c6_h.jpg)
 
-Salesforce Lightning Design system component kit for Sketch. A Style based design system leveraging symbol overrides empowering designers to create accurate designs in a flash.
-**This system will ensure consistency and continuity across teams.**
+Salesforce Lightning Design system design kit for Sketch. A Style based design system leveraging symbol's. This system will encourage consistency between design teams, while making the design process faster and easier.
+**This system will ensure design consistency and continuity across teams.**
 
 # How to use this kit
 ### Basic Kit Usage
@@ -12,7 +12,9 @@ The best way to use this kit, if you know you may need access to the majority of
 The SLDS Starter is a blank file, but has all the symbols already added for you in the symbols page.
 
 ### Using Symbols
-This system is entirely based upon symbols. Any symbol can be added from the symbols menu: **Insert -> Symbol -> {symbol name}**. There you will find all major symbols listed alphabetically.
+This system is entirely based upon symbols. Any symbol can be added from the symbols menu: 
+**Insert -> Symbol -> {symbol name}**.
+There you will find all major symbols listed alphabetically.
 
 ![How to](http://bradysammons.com/SLDS_images/symbols-menu.png)
 
@@ -31,4 +33,4 @@ Once a symbol has been added to the page you can elect it and **use the "Overrid
 # Object Structure
 
 ### Buttons
-Rename Multiple layers at once. You can access it from the menu **Plugins -> Rename It -> Rename Selected Layers** or use the shortcut **⌃+⌘+R**
+Rename Multiple layers at once. You can access it from the menu
