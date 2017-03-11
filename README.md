@@ -60,3 +60,5 @@ Once a symbol has been added to the page you can select it and use the **"Overri
 
 ### Buttons
 Rename Multiple layers at once. You can access it from the menu
+
+*Made with love by the Salesforce Design Team :gift_heart:*
